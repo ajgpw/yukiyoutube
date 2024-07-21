@@ -9,7 +9,7 @@
 "tasks":{
   "start":{
     "name":"start",
-    "command": "uvicorn --host 0.0.0.0 --port 8080 main:app",
+    "command": "uvicorn --host 0.0.0.0 --port 3000 main:app",
     "runAtStart":true
     }
   }
