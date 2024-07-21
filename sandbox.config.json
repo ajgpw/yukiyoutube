@@ -1,0 +1,12 @@
+{
+  "infiniteLoopProtection": false,
+  "hardReloadOnChange": false,
+  "view": "browser",
+  "template": "python",
+  "container": {
+    "startScript": "python main.py",
+    "ports": [
+      8080
+    ]
+  }
+}
